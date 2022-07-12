@@ -10,7 +10,6 @@ My project is about a simple snake videogame, however the play is implemented wi
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 My idea is going to try to solve winning Snake and perfecting playing Snake. This problem is not common, but the end result will be interesting. My motivation: I like videogames and I would like to try out this small simple project as a starter.
 
 
