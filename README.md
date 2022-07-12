@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-My project is about a simple tetris videogame, however the play is implemented with AI. The AI will use reinforcement learning(RL) by rewarding good behavior and punishing bad behavior.
+My project is about a simple snake videogame, however the play is implemented with AI. The AI will use reinforcement learning(RL) by rewarding good behavior and punishing bad behavior.
 
 
 ## Background
