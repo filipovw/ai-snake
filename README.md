@@ -1,4 +1,4 @@
-# Tetris AI
+# Snake AI
 
 Final project for the Building AI course
 
@@ -11,7 +11,7 @@ My project is about a simple tetris videogame, however the play is implemented w
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-My idea is going to try to solve winning Tetris and perfecting playing Tetris. This problem is not common, but the end result will be interesting. My motivation: I like videogames and I would like to try out this small simple project as a starter.
+My idea is going to try to solve winning Snake and perfecting playing Snake. This problem is not common, but the end result will be interesting. My motivation: I like videogames and I would like to try out this small simple project as a starter.
 
 
 ## How is it used?
@@ -26,7 +26,7 @@ I won't need any dataset as the AI learning method will be RL.
 
 ## Challenges
 
-The limitation is the frame of the game itself. Once the AI has perfected itself, it won't have any other use other than playing Tetris.
+The limitation is the frame of the game itself. Once the AI has perfected itself, it won't have any other use other than playing Snake.
 
 ## What next?
 
