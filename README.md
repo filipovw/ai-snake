@@ -2,28 +2,25 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Tetris AI
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My project is about a simple tetris videogame, however the play is implemented with AI. The AI will use reinforcement learning(RL) by rewarding good behavior and punishing bad behavior.
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+My idea is going to try to solve winning Tetris and perfecting playing Tetris. This problem is not common, but the end result will be interesting. My motivation: I like videogames and I would like to try out this small simple project as a starter.
 
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The solution will be used only by people, who are interested in this kind of thing or users, who would like to create their own similar project and are looking for where to start and how a finished project should look like.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -61,13 +58,14 @@ If you need to use links, here's an example:
 | Header      | Title       |
 | Paragraph   | Text        |
 
+
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The limitation is the frame of the game itself. Once the AI has perfected itself, it won't have any other use other than playing Tetris.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The next thing I would like to try (implementing AI) would be a larger project, which actually targets real world problems.
 
 
 ## Acknowledgments
